@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sadha Chilukoori"
+title                    : "Vishnu Chilukoori"
 title_separator          : "-"
-name                     : &name "Sadha Chilukoori"
+name                     : &name "Vishnu Chilukoori"
 description              : &description "Data Engineer"
-url                      : https://srchilukoori.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://vvrchilukoori.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "srchilukoori/srchilukoori.github.io"
+repository               : "vvrchilukoori/vvrchilukoori.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,28 +22,28 @@ repository               : "srchilukoori/srchilukoori.github.io"
 author:
   # Biographic information
   avatar           : "avatar.png"
-  name             : "Sadha Chilukoori"
+  name             : "Vishnu Chilukoori"
   pronouns         : "he/him"
-  bio              : "Data Engineering & Analytics"
-  location         : "Menlo Park, CA"
-  employer         : "Meta Platforms, Inc."
+  bio              : "Data Engineering"
+  location         : "Bellevue, WA"
+  employer         : "Amazon.com Services LLC"
   uri              : # Url
   email            : # Email
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=AxIJVtcAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=4zXA19YAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0001-6972-2963"
+  orcid            : "https://orcid.org/0009-0007-9478-1934"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Sadha-Shiva-Reddy-Chilukoori"
+  researchgate     : "https://www.researchgate.net/profile/Vishnu-Vardhan-Reddy-Chilukoori"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "srchilukoori"
+  github           : "vvrchilukoori"
   kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
@@ -57,9 +57,9 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "srchilukoori"
+  linkedin         : "vvrc"
   mastodon         : # URL
-  medium           : "srchilukoori"
+  medium           : "vvrchilukoori"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
@@ -113,8 +113,8 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification : "1tXYH5khxlv83rkkFDEbo5A-RBDODJnbDYbLg4xVtvs"
-bing_site_verification   : "59E103DFCC664302AB97BC464AAAEE70"
+google_site_verification : 
+bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
